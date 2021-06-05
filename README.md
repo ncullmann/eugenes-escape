@@ -18,7 +18,14 @@ Download the [Linux](https://github.com/ncullmann/Eugenes-Escape/releases/downlo
 
 Unzip then cd into the extracted directory.
 
-Set the 'EugenesEscape.x86_64' file to executable by running: ```chmod 777 EugenesEscape.x86_64``` then: ```./EugenesEscape.x86_64``` to start. 
+Set the 'EugenesEscape.x86_64' file to executable by running: ```chmod 777 EugenesEscape.x86_64``` then: ```./EugenesEscape.x86_64``` to start.
+
+# Screenshots
+![](https://user-images.githubusercontent.com/56172266/120907878-4f3d9600-c633-11eb-85bc-8b4f525194a5.png)
+![](https://user-images.githubusercontent.com/56172266/120907879-519ff000-c633-11eb-9957-51f0e7627377.png)
+![](https://user-images.githubusercontent.com/56172266/120907881-54024a00-c633-11eb-8967-e21be21ef939.png)
+
+
 # Contributing
 To get started, clone the repository and import it into Unity. You could also do this to build from scratch. 
 
