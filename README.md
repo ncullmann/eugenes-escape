@@ -25,4 +25,4 @@ To get started, clone the repository and import it into Unity. You could also do
 Tested and working on Unity 2019.4.17f1.
 
 # License
-Eugene's Escape is released under the GPLv3 license. Some assets used are not my intellectual property and are most likely under a different license.
+Eugene's Escape is released under the GPLv3 license. Some assets used are not my intellectual property and are most likely under various licenses.
