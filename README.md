@@ -13,6 +13,12 @@ Looking to play? Builds are available for Windows, macOS, and Linux. Builds are 
 Download either the [64-bit](https://github.com/ncullmann/Eugenes-Escape/releases/download/v1.0/Eugenes-Escape-Windows-x64.zip) (Recommended) or [32-bit](https://github.com/ncullmann/Eugenes-Escape/releases/download/v1.0/Eugenes-Escape-Windows-x86.zip) release. 
 
 Unzip then run the 'Eugene's Escape.exe' file in the extracted directory. 
+
+### macOS
+Download the [macOS](https://github.com/ncullmann/Eugenes-Escape/releases/download/v1.0/Eugenes-Escape-macOS.zip) release.
+
+Locate the archive and run.
+
 ### Linux
 Download the [Linux](https://github.com/ncullmann/Eugenes-Escape/releases/download/v1.0/Eugenes-Escape-Linux.zip) release. 
 
